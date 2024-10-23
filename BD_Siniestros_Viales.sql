@@ -1,1 +1,0 @@
-SELECT * FROM pi2.victimas;
