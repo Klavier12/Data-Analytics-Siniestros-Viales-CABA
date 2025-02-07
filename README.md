@@ -63,7 +63,7 @@ Este enfoque integral permitirá no solo entender la magnitud y las causas de lo
 ![KPIs](C:\Users\Cristian\Desktop\DATA SCIENCE\HENRY\PI2\Repositorio-Git\KPI.png)
 
 
-Los KPIs a analizar y graficar en el dashboard son:
+Los KPIs a analizar y graficar en el dashboard son
 
 1. **Reducir en un 10% la tasa de homicidios en siniestros viales** en los últimos seis meses, en comparación con el semestre anterior.
   
