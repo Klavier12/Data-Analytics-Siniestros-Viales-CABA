@@ -12,7 +12,7 @@
 7. [Material de Apoyo](#material-de-apoyo)
 ## Introducción
 
-El Observatorio de Movilidad y Seguridad Vial (OMSV) es un centro de estudios que opera bajo la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires. Su objetivo principal es proporcionar información y análisis que permitan a las autoridades locales implementar estrategias efectivas para reducir la cantidad de víctimas fatales en siniestros viales. Esta necesidad de disminuir el impacto socio-demografico qeu esta problematica estructura la realización de este proyecto
+El Observatorio de Movilidad y Seguridad Vial (OMSV) es un centro de estudios que opera bajo la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires. Su objetivo principal es proporcionar información y análisis que permitan a las autoridades locales implementar estrategias efectivas para reducir la cantidad de víctimas fatales en siniestros viales. Esta necesidad de disminuir el impacto socio-demografico qeu esta problematica estructura la realización de este proyecto.
 
 ### Contexto del Problema
 
